@@ -1,8 +1,4 @@
-<!-- Visitors count -->
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=brunocesarangst&repo=brunocesarangst&countColorcountColor)
-
-&nbsp;
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=brunocesarangst)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brunocesarangst&theme=darcula&hide_border=true&fire=DD0000&sideNums=08DDC98A&background=4A0A1F)](https://git.io/streak-stats)
 
   <div>
   <a href="https://github.com/brunocesarangst">
