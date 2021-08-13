@@ -1,4 +1,4 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brunocesarangst&theme=darcula&hide_border=true&fire=DD0000&sideNums=08DDC98A&background=4A0A1F)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brunocesarangst&theme=darcula&hide_border=true&fire=DD0000&sideNums=08DDC98A&background=4A0A1F)](https://git.io/streak-stats) -->
 
   <div>
   <a href="https://github.com/brunocesarangst">
