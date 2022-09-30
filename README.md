@@ -40,6 +40,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href=" https://golang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="ir" width="40" height="40"/>
+  </a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
   </a>
@@ -60,6 +63,9 @@
   </a>
   <a href="https://tailwindcss.com /" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"height="40"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
   <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height= "40"/>
@@ -127,6 +133,9 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height ="40"/>
+  </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
   </a>
@@ -150,74 +159,62 @@
   </a>
 </p>
 <h3 align="left">Backend como serviço(BaaS): </h3>
-<p align="left">
-
-</p>
-<h3 align="left">Famework: </h3>
-<p align="left">
-
-</p>
-<h3 align="left">Testes: </h3>
-<p align="left">
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
-  </a>
-</p>
-<h3 align="left">Geradores de Sites estático: </h3>
-<p align="left">
-
-</p>
-<h3 align="left">Outros: </h3>
-<p align="left">
-
-</p>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<p align="left"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href ="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt ="flask" width="40" height="40"/>
-  </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt=" gatsby" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href=" https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="ir" width="40" height="40"/>
   </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer ">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   </a>
+</p>
+<h3 align="left">Famework: </h3>
+<p align="left">
+  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href ="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt ="flask" width="40" height="40"/>
+  </a>
+</p>
+<h3 align="left">Testes: </h3>
+<p align="left">
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
   </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height ="40"/>
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
   </a>
+</p>
+<h3 align="left">Geradores de Sites estático: </h3>
+<p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/ >
   </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt=" gatsby" width="40" height="40"/>
+  </a>
+</p>
+<h3 align="left">Outros: </h3>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+</p>
+<h3 align="left">Software: </h3>
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
 
