@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunocesarangst" alt="brunocesarangst" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/angstbruno" target="blank"><img src="https://img.shields.io/twitter/siga/angstbruno?logo=twitter&style=for-the-badge" alt="angstbruno" /></a> </p>
+<p align="left"> <a href="https://twitter.com/angstbruno" target="blank"><img src="[https://img.shields.io/twitter/siga/angstbruno?logo=twitter&style=for-the-badge](https://img.shields.io/twitter/url?label=bruno&style=social&url=https%3A%2F%2Ftwitter.com%2FAngstBruno)" alt="angstbruno" /></a> </p>
+
+
 
 - 🔭 atualmente estou trabalhando em [generikx](https://github.com/BrunoCesarAngst/generikx)
 
