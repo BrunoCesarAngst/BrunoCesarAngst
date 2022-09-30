@@ -186,10 +186,24 @@
 </p>
 
 <h3 align="left">Suporte:</h3>
-<p> <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/brunoangst"> <img align=" left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/brunoangst" /></a> </p><br><br>
+<p>
+  <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/brunoangst">
+    <img align=" left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/brunoangst" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunocesarangst&show_icons=true&locale=en&layout=compact" alt="brunocesarangst" /> </p>
+<br><br>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunocesarangst&show_icons=true&locale=en" alt="brunocesarangst" /> </p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunocesarangst&show_icons=true&locale=en&layout=compact" alt="brunocesarangst" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunocesarangst&" alt="brunocesarangst" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunocesarangst&show_icons=true&locale=en" alt="brunocesarangst" />
+</p>
+
+<br>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunocesarangst&" alt="brunocesarangst" />
+</p>
