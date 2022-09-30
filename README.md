@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunocesarangst" alt="brunocesarangst" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/angstbruno" target="blank"><img src="https://img.shields.io/twitter/ siga/angstbruno?logo=twitter&style=for-the-badge" alt="angstbruno" /></a> </p>
+<p align="left"> <a href="https://twitter.com/angstbruno" target="blank"><img src="https://img.shields.io/twitter/siga/angstbruno?logo=twitter&style=for-the-badge" alt="angstbruno" /></a> </p>
 
 - 🔭 atualmente estou trabalhando em [generikx](https://github.com/BrunoCesarAngst/generikx)
 
@@ -16,12 +16,12 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left ">
 <a href="https://dev.to/brunocesarangst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/devto.svg" alt="brunocesarangst" height="30" width="40" /></a>
-<a href="https://twitter.com /angstbruno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter .svg" alt="angstbruno" height="30" largura="40" /></a>
+<a href="https://twitter.com/angstbruno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter .svg" alt="angstbruno" height="30" largura="40" /></a>
 <a href="https://linkedin.com/in/brunocesarangt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunocesarangt" height="30" width="40" /></a>
-<a href="https:/ /fb.com/brunocesarangst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons /Social/facebook.svg" alt="brunocesarangst" height="30" width="40" /></a>
+<a href="https://fb.com/brunocesarangst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brunocesarangst" height="30" width="40" /></a>
 <a href="https://instagram.com/brunoangst" target="blank">< img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brunoangst" height="30" width="40" />< /a>
-<a href="https://medium.com/@bruno.angst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/medium.svg" alt="@bruno.angst" height="30" width="40" /></a>
-<a href="https:/ /discord.gg/Bruno Angst#1807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/ images/icons/Social/discord.svg" alt="Bruno Angst#1807" height="30" width="40" /></a>
+<a href="https://medium.com/@bruno.angst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bruno.angst" height="30" width="40" /></a>
+<a href="https://discord.gg/Bruno Angst#1807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bruno Angst#1807" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas: </h3>
