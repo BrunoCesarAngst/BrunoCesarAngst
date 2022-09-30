@@ -14,9 +14,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Conecte-se comigo:</h3>
-<p align="left ">
-<a href="https://dev.to/brunocesarangst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/devto.svg" alt="brunocesarangst" height="30" width="40" /></a>
-<a href="https://twitter.com/angstbruno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter .svg" alt="angstbruno" height="30" largura="40" /></a>
+<p align="left">
+<a href="https://dev.to/brunocesarangst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="brunocesarangst" height="30" width="40" /></a>
+<a href="https://twitter.com/angstbruno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angstbruno" height="30" largura="40" /></a>
 <a href="https://linkedin.com/in/brunocesarangt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunocesarangt" height="30" width="40" /></a>
 <a href="https://fb.com/brunocesarangst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brunocesarangst" height="30" width="40" /></a>
 <a href="https://instagram.com/brunoangst" target="blank">< img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brunoangst" height="30" width="40" />< /a>
