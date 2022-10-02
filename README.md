@@ -9,7 +9,7 @@
 
 
 
-- 🔭 atualmente estou trabalhando em [generikx](https://github.com/BrunoCesarAngst/generikx)
+- 🔭 atualmente estou trabalhando em [vuex-store](https://github.com/BrunoCesarAngst/vuex-store)
 
 ### Blogs Postagens
 <!-- BLOG-POST-LIST:START -->
