@@ -9,7 +9,7 @@
 
 
 
-- 🔭 atualmente estou trabalhando em [vuex-store](https://github.com/BrunoCesarAngst/vuex-store)
+- 🔭 atualmente estou trabalhando no projeto [vuex-store](https://github.com/BrunoCesarAngst/vuex-store), uma app de proposta comercial, baseado em dados de montagem de produtos.
 
 ### Blogs Postagens
 <!-- BLOG-POST-LIST:START -->
