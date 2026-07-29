@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Bruno César Angst — Engenharia de software para domínios complexos</title>
+  <desc id="desc">Capa tipográfica escura com diagrama abstrato de decisões e sistemas.</desc>
+  <rect width="1280" height="360" rx="24" fill="#0E1116"/>
+  <path d="M0 294H1280" stroke="#272D36"/>
+  <path d="M944 58H1170V134H1048V220H1202" fill="none" stroke="#39414D" stroke-width="2"/>
+  <path d="M970 278H1100V220" fill="none" stroke="#39414D" stroke-width="2"/>
+  <circle cx="944" cy="58" r="7" fill="#E77A4E"/>
+  <circle cx="1170" cy="134" r="7" fill="#0E1116" stroke="#E77A4E" stroke-width="3"/>
+  <circle cx="1048" cy="220" r="7" fill="#E77A4E"/>
+  <circle cx="1202" cy="220" r="7" fill="#0E1116" stroke="#E77A4E" stroke-width="3"/>
+  <circle cx="970" cy="278" r="7" fill="#0E1116" stroke="#E77A4E" stroke-width="3"/>
+  <text x="72" y="76" fill="#E77A4E" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">BRUNO CÉSAR ANGST</text>
+  <text x="72" y="151" fill="#F2F4F7" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="51" font-weight="750">Desenvolvedor por ofício.</text>
+  <text x="72" y="211" fill="#F2F4F7" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="51" font-weight="750">Investigador por natureza.</text>
+  <text x="74" y="263" fill="#AEB6C2" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="22">Engenharia de software para domínios complexos.</text>
+  <text x="72" y="326" fill="#7F8996" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="1.2">COMPREENDER  ·  MODELAR  ·  CONSTRUIR  ·  REVISAR</text>
+</svg>
