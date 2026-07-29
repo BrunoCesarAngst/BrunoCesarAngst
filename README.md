@@ -46,6 +46,7 @@ Não procuro apenas fazer uma funcionalidade funcionar. Procuro compreender **po
 | [appadosal](https://github.com/BrunoCesarAngst/appadosal) | Aplicação full-stack TypeScript com tRPC, Drizzle, autenticação e PWA |
 | [agenda-arroio](https://github.com/BrunoCesarAngst/agenda-arroio) | Aplicação Vue 3 para agendamento, administração e operação local |
 | [demando](https://github.com/BrunoCesarAngst/demando) | Gestão de demandas com Django, API REST, HTMX e documentação interativa |
+| [app-mysys](https://github.com/BrunoCesarAngst/app-mysys) | Modelagem de um sistema pessoal inspirado em GTD, ZTD e PARA |
 
 ## Ferramentas que uso
 
