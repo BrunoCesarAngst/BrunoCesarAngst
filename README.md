@@ -1,94 +1,69 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/capa-escura.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/capa-clara.svg">
+  <img alt="Bruno César Angst — Desenvolvedor por ofício. Investigador por natureza." src="./assets/capa-clara.svg" width="100%">
+</picture>
 
-# Bruno César Angst
+<p align="center">
+  <a href="https://brunoangst.com.br/"><img alt="Site" src="https://img.shields.io/badge/brunoangst.com.br-C8653D?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://github.com/BrunoCesarAngst/digitalGarden"><img alt="Jardim digital" src="https://img.shields.io/badge/jardim_digital-191B1F?style=for-the-badge&logo=readme&logoColor=white"></a>
+</p>
 
-### Engenharia de software para domínios complexos
+> Transformo regras de negócio, estados de interação e integrações difíceis em sistemas claros, verificáveis e preparados para evoluir.
 
-**Transformo regras de negócio difíceis em produtos digitais claros, confiáveis e preparados para evoluir.**
+## Meu trabalho
 
-Atuo conectando produto, experiência de uso e arquitetura — da compreensão do problema à entrega técnica.
+Atuo na interseção entre **produto, domínio e engenharia de software**. Minha contribuição começa antes da implementação: investigo o problema, separo fatos de hipóteses, torno decisões explícitas e construo contratos que conectam interface, API, dados e operação.
 
-[![Site](https://img.shields.io/badge/Site-brunoangst.com.br-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brunoangst.com.br/)
-[![GitHub](https://img.shields.io/badge/GitHub-BrunoCesarAngst-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoCesarAngst)
+Tenho maior impacto quando o software começa a resistir: regras extensas, estados difíceis de prever, compatibilidade legada, múltiplos repositórios, decisões arquiteturais dispersas ou automações que precisam operar com segurança.
 
-</div>
+Não procuro apenas fazer uma funcionalidade funcionar. Procuro compreender **por que funciona, onde pode falhar e como continuará evoluindo**.
 
----
+## Agora — julho de 2026
 
-## Perfil profissional
+- projetando modelos de interação para editores visuais e estruturas recursivas;
+- desenvolvendo automações seguras para revisão e manutenção de código;
+- aprofundando governança técnica com contratos, ADRs e evidências verificáveis;
+- experimentando a integração entre software, dispositivos compactos e processamento local;
+- publicando notas sobre arquitetura, ferramentas e pensamento crítico aplicado à engenharia.
 
-Sou desenvolvedor de software no Rio Grande do Sul, Brasil, com atuação transversal na construção e evolução de sistemas corporativos.
+## Engenharia publicada
 
-Minha contribuição não se limita à implementação de tarefas. Trabalho para compreender o domínio, reduzir ambiguidades, estruturar decisões técnicas e criar bases que permitam ao produto evoluir com segurança.
-
-Tenho maior impacto em contextos nos quais existem regras de negócio complexas, múltiplas integrações, decisões arquiteturais importantes e necessidade de alinhar diferentes perspectivas — produto, interface, back-end, dados e operação.
-
-## Onde gero valor
-
-- **Traduzo complexidade de negócio em software compreensível**, aproximando linguagem de produto, experiência do usuário e implementação técnica.
-- **Conecto as partes do sistema**, evitando soluções isoladas que funcionam localmente, mas fragilizam o produto como um todo.
-- **Estruturo decisões arquiteturais**, contratos e limites claros para reduzir retrabalho e dependências acidentais.
-- **Protejo a evolução do produto** com testes, documentação técnica, rastreabilidade e entregas incrementais.
-- **Identifico riscos antes que se tornem custo**, analisando comportamento, integração, estado, persistência e manutenção.
-- **Aumento a capacidade de execução do time** por meio de automação, revisão técnica e organização do fluxo de desenvolvimento.
-
-## Especialidades
-
-| Produto e domínio | Engenharia de software |
+| Material | O que demonstra |
 | --- | --- |
-| Sistemas orientados a regras de negócio | Arquitetura front-end e integração com APIs |
-| Editores visuais e interfaces complexas | Vue 3, TypeScript e aplicações reativas |
-| Modelagem de fluxos e estados de interação | Java, Quarkus e serviços REST |
-| Contratos entre produto, front-end e back-end | PostgreSQL, Flyway, Redis e persistência |
-| Evolução incremental de produtos corporativos | Testes automatizados e qualidade contínua |
-| Clareza funcional e documentação de decisões | Linux, Docker, Git e automação de engenharia |
+| [Editor visual de regras](https://github.com/BrunoCesarAngst/digitalGarden/blob/main/case-studies/editor-visual-de-regras.md) | Modelagem de domínio, AST, interação, contratos e evolução incremental |
+| [Automação segura de revisão](https://github.com/BrunoCesarAngst/digitalGarden/blob/main/case-studies/automacao-segura-de-revisao.md) | Governança, Git, isolamento por worktree e segurança operacional |
+| [Seleção não é foco](https://github.com/BrunoCesarAngst/digitalGarden/blob/main/notes/selecao-nao-e-foco.md) | Arquitetura front-end, máquinas de estado e acessibilidade |
+| [Decisões que sobrevivem ao código](https://github.com/BrunoCesarAngst/digitalGarden/blob/main/notes/decisoes-arquiteturais.md) | ADRs, rastreabilidade e alinhamento entre contrato, implementação e teste |
+| [Polyrepos e worktrees](https://github.com/BrunoCesarAngst/digitalGarden/blob/main/notes/polyrepos-e-worktrees.md) | Organização de ambientes complexos sem contaminar os produtos |
 
-## Stack principal
+## Projetos públicos selecionados
 
-**Front-end**  
-`Vue 3` · `TypeScript` · `Vite` · `Pinia` · `Vue Router` · `Zod` · `Vitest`
+| Projeto | Papel na minha trajetória |
+| --- | --- |
+| [brunoangst.com.br](https://github.com/BrunoCesarAngst/brunoangst.com.br) | Presença profissional, escrita e identidade digital |
+| [digitalGarden](https://github.com/BrunoCesarAngst/digitalGarden) | Conhecimento técnico público e estudos de engenharia |
+| [appadosal](https://github.com/BrunoCesarAngst/appadosal) | Aplicação full-stack TypeScript com tRPC, Drizzle, autenticação e PWA |
+| [agenda-arroio](https://github.com/BrunoCesarAngst/agenda-arroio) | Aplicação Vue 3 para agendamento, administração e operação local |
+| [demando](https://github.com/BrunoCesarAngst/demando) | Gestão de demandas com Django, API REST, HTMX e documentação interativa |
 
-**Back-end e dados**  
-`Java 21` · `Quarkus` · `REST` · `PostgreSQL` · `Flyway` · `Redis`
+## Ferramentas que uso
 
-**Engenharia e ambiente**  
-`Docker` · `Linux` · `WSL` · `Git` · `GitHub` · `GitLab` · `pnpm` · `Gradle`
+`Vue 3` · `TypeScript` · `Vite` · `Pinia` · `Vitest` · `Java 21` · `Quarkus` · `REST` · `PostgreSQL` · `Flyway` · `Redis` · `Docker` · `Linux` · `Git`
 
-## Como trabalho
+## Princípios
 
-**Compreender antes de construir.**  
-Investigo o comportamento esperado, as restrições do domínio e os efeitos da mudança no sistema inteiro.
+- **Compreender antes de construir.** Complexidade mal compreendida reaparece como retrabalho.
+- **Tornar decisões verificáveis.** Documentação, contratos, código e testes precisam contar a mesma história.
+- **Evoluir sem apagar o contexto.** Compatibilidade e rastreabilidade preservam a capacidade de decidir.
+- **Automatizar sem perder controle.** Uma boa automação conhece seus limites e mantém decisões críticas sob responsabilidade humana.
 
-**Tornar decisões explícitas.**  
-Arquitetura, contratos e regras importantes precisam ser compreensíveis, verificáveis e rastreáveis.
+## Contato
 
-**Entregar em ciclos seguros.**  
-Prefiro evolução incremental, com escopo controlado, validação objetiva e possibilidade real de revisão.
-
-**Tratar qualidade como parte do produto.**  
-Testes, documentação e manutenção não são etapas posteriores: fazem parte da solução desde o início.
-
-## Contextos em que minha atuação faz diferença
-
-- produtos com regras de negócio extensas ou difíceis de visualizar;
-- sistemas que precisam evoluir sem perder compatibilidade e estabilidade;
-- projetos que exigem integração real entre interface, API, dados e operação;
-- equipes que precisam transformar conhecimento disperso em decisões executáveis;
-- iniciativas que demandam rigor técnico sem perder a visão de produto;
-- ambientes nos quais automação e boas ferramentas podem ampliar significativamente a produtividade.
-
-## Presença profissional
-
-Conheça melhor meu trabalho, meus princípios e os temas que estou desenvolvendo:
+Meu site reúne apresentação, princípios, textos e formas de contato:
 
 ### [brunoangst.com.br](https://brunoangst.com.br/)
 
----
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BrunoCesarAngst&show_icons=true&hide_title=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Bruno César Angst" />
-</p>
-
-<p align="center">
-  <strong>Software bem construído não apenas funciona hoje — ele preserva a capacidade de decidir e evoluir amanhã.</strong>
+  <strong>Código é parte da solução. O restante está nas decisões que o tornaram possível.</strong>
 </p>
