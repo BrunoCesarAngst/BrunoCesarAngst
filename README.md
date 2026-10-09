@@ -25,6 +25,18 @@ Cada projeto abaixo apresenta **problema, escopo, solução, stack e evidências
 
 **Critério de leitura:** configuração de testes não significa testes aprovados; documentação de arquitetura não comprova implantação; resultados mensuráveis serão incluídos somente quando houver evidência.
 
+## Evidências de implementação
+
+Os projetos abaixo têm uma seção de **evidências no código**, com links diretos para implementações e limites de validação:
+
+- **[Torq — workspace e IA](https://github.com/BrunoCesarAngst/ia-torq#evidências-técnicas-publicadas-inspeção-de-outubro-de-2026):** fronteiras arquiteturais documentadas e testes de hook de manutenção de grafo.
+- **[Agenda Arroio](https://github.com/BrunoCesarAngst/agenda-arroio#evidências-no-código-inspeção-de-outubro-de-2026):** autenticação Google e rotinas de exportação/backup no Firebase.
+- **[App do Sal](https://github.com/BrunoCesarAngst/appadosal#evidências-no-código-inspeção-de-outubro-de-2026):** integração de autenticação e API tRPC pública/protegida.
+- **[Demando](https://github.com/BrunoCesarAngst/demando#evidências-no-código-inspeção-de-outubro-de-2026):** domínio de demandas, paginação HTMX e fluxos de autenticação.
+- **[Torq Design System](https://github.com/BrunoCesarAngst/DS-Torq#evidências-no-código-inspeção-de-outubro-de-2026):** árvore recursiva e renderização virtualizada.
+
+**Transparência:** os READMEs também registram lacunas encontradas. Nenhuma métrica de impacto, cobertura de testes, autoria integral ou adoção em produção foi presumida. Documentação, implementação e validação operacional são níveis diferentes de evidência.
+
 ## Meu trabalho
 
 Atuo na interseção entre **produto, domínio e engenharia de software**. Minha contribuição começa antes da implementação: investigo o problema, separo fatos de hipóteses, torno decisões explícitas e construo contratos que conectam interface, API, dados e operação.
