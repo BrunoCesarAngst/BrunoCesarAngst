@@ -11,6 +11,20 @@
 
 > Transformo regras de negócio, estados de interação e integrações difíceis em sistemas claros, verificáveis e preparados para evoluir.
 
+## Projetos em destaque — evidências de engenharia
+
+Cada projeto abaixo apresenta **problema, escopo, solução, stack e evidências verificáveis**. Eles são exemplos de trabalho técnico publicado, não alegações de uso comercial ou impacto sem métricas.
+
+| Projeto | Problema abordado | Evidência para avaliar |
+| --- | --- | --- |
+| [Torq — camada de workspace e IA](https://github.com/BrunoCesarAngst/ia-torq) | Coordenar contratos, decisões e fronteiras entre sistemas | [Arquitetura publicada](https://github.com/BrunoCesarAngst/ia-torq/blob/main/ARCHITECTURE.md) e políticas operacionais; **código dos produtos internos não está neste repositório** |
+| [Agenda Arroio do Sal](https://github.com/BrunoCesarAngst/agenda-arroio) | Diferenciar fluxos de agendamento, administração e backup | [Código, scripts de teste e backup](https://github.com/BrunoCesarAngst/agenda-arroio) |
+| [App do Sal](https://github.com/BrunoCesarAngst/appadosal) | Integrar interface, API tipo-segura e persistência | [Monorepo, configuração e documentação](https://github.com/BrunoCesarAngst/appadosal) |
+| [Demando](https://github.com/BrunoCesarAngst/demando) | Gerir demandas via web e API | [Aplicação Django e configuração da API](https://github.com/BrunoCesarAngst/demando) |
+| [Torq Design System](https://github.com/BrunoCesarAngst/DS-Torq) | Reutilização de componentes e padrões de interface | [Biblioteca e documentação](https://github.com/BrunoCesarAngst/DS-Torq) |
+
+**Critério de leitura:** configuração de testes não significa testes aprovados; documentação de arquitetura não comprova implantação; resultados mensuráveis serão incluídos somente quando houver evidência.
+
 ## Meu trabalho
 
 Atuo na interseção entre **produto, domínio e engenharia de software**. Minha contribuição começa antes da implementação: investigo o problema, separo fatos de hipóteses, torno decisões explícitas e construo contratos que conectam interface, API, dados e operação.
@@ -19,7 +33,7 @@ Tenho maior impacto quando o software começa a resistir: regras extensas, estad
 
 Não procuro apenas fazer uma funcionalidade funcionar. Procuro compreender **por que funciona, onde pode falhar e como continuará evoluindo**.
 
-## Agora — julho de 2026
+## Áreas de investigação técnica
 
 - projetando modelos de interação para editores visuais e estruturas recursivas;
 - desenvolvendo automações seguras para revisão e manutenção de código;
@@ -37,15 +51,12 @@ Não procuro apenas fazer uma funcionalidade funcionar. Procuro compreender **po
 | [Decisões que sobrevivem ao código](https://github.com/BrunoCesarAngst/digitalGarden/blob/main/notes/decisoes-arquiteturais.md) | ADRs, rastreabilidade e alinhamento entre contrato, implementação e teste |
 | [Polyrepos e worktrees](https://github.com/BrunoCesarAngst/digitalGarden/blob/main/notes/polyrepos-e-worktrees.md) | Organização de ambientes complexos sem contaminar os produtos |
 
-## Projetos públicos selecionados
+## Outros projetos e materiais públicos
 
 | Projeto | Papel na minha trajetória |
 | --- | --- |
 | [brunoangst.com.br](https://github.com/BrunoCesarAngst/brunoangst.com.br) | Presença profissional, escrita e identidade digital |
 | [digitalGarden](https://github.com/BrunoCesarAngst/digitalGarden) | Conhecimento técnico público e estudos de engenharia |
-| [appadosal](https://github.com/BrunoCesarAngst/appadosal) | Aplicação full-stack TypeScript com tRPC, Drizzle, autenticação e PWA |
-| [agenda-arroio](https://github.com/BrunoCesarAngst/agenda-arroio) | Aplicação Vue 3 para agendamento, administração e operação local |
-| [demando](https://github.com/BrunoCesarAngst/demando) | Gestão de demandas com Django, API REST, HTMX e documentação interativa |
 | [app-mysys](https://github.com/BrunoCesarAngst/app-mysys) | Modelagem de um sistema pessoal inspirado em GTD, ZTD e PARA |
 
 ## Ferramentas que uso
